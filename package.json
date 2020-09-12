@@ -1,0 +1,28 @@
+{
+  "name": "danawa-cultureland-telegram-bot",
+  "version": "1.0.0",
+  "description": "Use at own your risk.",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "lowdb": "^1.0.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejnahc/danawa-cultureland-telegram-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejnahc/danawa-cultureland-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/ejnahc/danawa-cultureland-telegram-bot#readme"
+}
